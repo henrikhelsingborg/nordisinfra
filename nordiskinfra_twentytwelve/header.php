@@ -6,7 +6,7 @@
  *
  * @package WordPress
  * @subpackage Twenty_Twelve
- * @since Twenty Twelve 1.0
+ * @since Twenty Twelve 1.0  
  */
 ?><!DOCTYPE html>
 <!--[if IE 7]>
@@ -47,7 +47,7 @@
 
 		<h1>
 				<a href="<?php echo esc_url( home_url( '/' ) ); ?>">
-					<img src="/wp-content/themes/nordiskinfra_twentytwelve/images/Header2015.jpg" class="header-image" alt=""/></a>
+					<img src="/wp-content/themes/nordiskinfra_twentytwelve/images/header_infra.png" class="header-image" alt=""/></a>
 
 		</h1>
 
